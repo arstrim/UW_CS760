@@ -36,3 +36,5 @@ mnist_data_2
 neural_networks.ipynb
 savepoint.pkl
 hw4_old
+images/
+neural_networks_sketch.ipynb
